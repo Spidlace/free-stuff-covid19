@@ -7,6 +7,6 @@ NB : Si vous voyez passer un nouveau produit qui ne se trouve pas dans la liste,
 
 ### Éducation
 
-- :student: [[APP] Cahier de vacances - Primaire - Nomad Education](https://play.google.com/store/apps/details?id=com.nomadeducation.cahiersdevacances) - ~~9.99€~~
+- :school: [[APP] Cahier de vacances - Primaire - Nomad Education](https://play.google.com/store/apps/details?id=com.nomadeducation.cahiersdevacances) - ~~9.99€~~
 - []() - ~~~~
 - []() - ~~~~
