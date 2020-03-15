@@ -26,7 +26,7 @@ NB : Si vous voyez passer un nouveau produit qui ne se trouve pas dans la liste,
 - [[__Free Mobile__] Le forfait à 2 € passe de 50 Mo à 1 Go jusqu'à fin avril](https://www.iliad.fr/presse/2020/CP_130320.pdf)
 
 ### :heavy_plus_sign: Santé
-- [[Doctolib] La téléconsultation est a disposition gratuitement](https://info.doctolib.fr/teleconsultation.html)
+- [[__Doctolib__] La téléconsultation est a disposition gratuitement](https://info.doctolib.fr/teleconsultation.html)
 
 ### :underage: NSFW
 - [[__Pornhub__] L'offre Pornhub Premium, qui supprime la pub et comprend plus de vidéos, offerte en mars pour l'Italie (#VPN)](https://twitter.com/Pornhub/status/1238130377727901696)
