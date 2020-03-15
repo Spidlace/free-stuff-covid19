@@ -5,8 +5,8 @@ Business ou non, certains produits peuvent être utiles à chacun d'entre nous !
 
 NB : Si vous voyez passer un nouveau produit qui ne se trouve pas dans la liste, j'accepte les pull request sans problème !
 
-### Éducation
+### :school: Éducation
 
-- :school: [[APP] Cahier de vacances - Primaire - Nomad Education](https://play.google.com/store/apps/details?id=com.nomadeducation.cahiersdevacances) - ~~9.99€~~
+- [[APP] Cahier de vacances - Primaire - Nomad Education](https://play.google.com/store/apps/details?id=com.nomadeducation.cahiersdevacances) - ~~9.99€~~
 - []() - ~~~~
 - []() - ~~~~
