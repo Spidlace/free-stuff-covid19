@@ -1,4 +1,4 @@
-## Outils/Contenus gratuit (ou en promotion) suite au COVID19
+## Outils/Contenu gratuit (ou en promotion) suite au COVID19
 
 Suite au COVID19, plusieurs entreprises offrent (ou rajoutent un code promo pour) leur solution/produit.
 Business ou non, certains produits peuvent être utiles à chacun d'entre nous ! :blush:
