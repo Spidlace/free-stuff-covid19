@@ -18,7 +18,7 @@ NB : Si vous voyez passer un nouveau produit qui ne se trouve pas dans la liste,
 - [[Majelan.com] Accès gratuit illimité à tous les contenus pendant 1 mois avec le code majelan](https://www.majelan.com/register/)
 
 ### :hammer_and_wrench: Outils
-- [[Discord] Discord augmente la limite de 10 spectateurs connectés en simultané à votre flux vidéo à 50](https://blog.discordapp.com/helping-out-where-we-can-3a5fb7bac77a)
+- [[__Discord__] Discord augmente la limite de 10 spectateurs connectés en simultané à votre flux vidéo à 50](https://blog.discordapp.com/helping-out-where-we-can-3a5fb7bac77a)
 - [[Teams] Accès gratuit à la première formule payante pendant 6 mois qui comprend plus de fonctions](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/)
 - [[1password] 6 mois d'abonnement gratuit à 1password Business (outil de gestionnaire de mot de passe)](https://blog.1password.com/covid-19-response/)
 
