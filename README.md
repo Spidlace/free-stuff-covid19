@@ -7,7 +7,7 @@ NB : Si vous voyez passer un nouveau produit qui ne se trouve pas dans la liste,
 
 ### :school: Éducation
 
-- [[__APP__] Cahier de vacances - Primaire - Nomad Education](https://play.google.com/store/apps/details?id=com.nomadeducation.cahiersdevacances) - ~~9.99€~~
+- [[__APP__] Cahier de vacances - Primaire - Nomad Education](https://play.google.com/store/apps/details?id=com.nomadeducation.cahiersdevacances)cc
 - [[__ManuelNumerique.com__] Accès gratuit aux manuels Scolaires Primaire, Collège](https://adistance.manuelnumerique.com/)
 - [[__Lelivrescolaire.fr__] Manuels collaboratifs co-écrits par une communauté de 3000 professeurs](https://www.lelivrescolaire.fr/)
 - [[__Editions-hatier.fr__] Accès gratuit à tous leurs manuels en ligne](https://www.editions-hatier.fr/continuite-pedagogique)
@@ -27,6 +27,11 @@ NB : Si vous voyez passer un nouveau produit qui ne se trouve pas dans la liste,
 
 ### :heavy_plus_sign: Santé
 - [[__Doctolib__] La téléconsultation est a disposition gratuitement](https://info.doctolib.fr/teleconsultation.html)
+
+### :musical_note: Musique
+- [[__Minimoog__] :apple: Classic Analog Synthesizer](https://apps.apple.com/us/app/minimoog-model-d-synthesizer/id1339418001)
+- [[__KORG iKaossilator__] :apple: Une appli mobile de synthétiseur](https://apps.apple.com/us/app/korg-ikaossilator/id4525598314)
+- [[__KORG Kaossilator__] :robot: Une appli mobile de synthétiseur](https://play.google.com/store/apps/details?id=jp.co.korg.kaossilator.android&hl=fr) - ~~17.99€~~
 
 ### :underage: NSFW
 - [[__Pornhub__] L'offre Pornhub Premium, qui supprime la pub et comprend plus de vidéos, offerte en mars pour l'Italie (#VPN)](https://twitter.com/Pornhub/status/1238130377727901696)
