@@ -28,6 +28,9 @@ NB : Si vous voyez passer un nouveau produit qui ne se trouve pas dans la liste,
 ### :heavy_plus_sign: Santé
 - [[__Doctolib__] La téléconsultation est a disposition gratuitement](https://info.doctolib.fr/teleconsultation.html)
 
+### 📺 Télévision
+- [[__Canal+__] La chaîne canal est en clair sur toute les box et les abonnés ont désormais accès au chaînes cinéma, jeunesse, séries et documentaires](https://twitter.com/maxsaada/status/1239598363772887041?s=19) 
+
 ### :musical_note: Musique
 - [[__Minimoog__] :apple: Classic Analog Synthesizer](https://apps.apple.com/us/app/minimoog-model-d-synthesizer/id1339418001)
 - [[__KORG iKaossilator__] :apple: Une appli mobile de synthétiseur](https://apps.apple.com/us/app/korg-ikaossilator/id4525598314)
