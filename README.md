@@ -36,6 +36,10 @@ NB : Si vous voyez passer un nouveau produit qui ne se trouve pas dans la liste,
 - [[__KORG iKaossilator__] :apple: Une appli mobile de synthétiseur](https://apps.apple.com/us/app/korg-ikaossilator/id4525598314)
 - [[__KORG Kaossilator__] :robot: Une appli mobile de synthétiseur](https://play.google.com/store/apps/details?id=jp.co.korg.kaossilator.android&hl=fr) - ~~17.99€~~
 
+### 🕹️ Jeux
+- [[__Terry Cavanagh__] Tous les jeux de terry cavanagh sont gratuit pour une période limitée](https://terrycavanagh.itch.io/) 
+- [[__Itch__] Collection de jeu gratuit sur Itch.io](https://twitter.com/iamleyeti/status/1239494887025803265) 
+
 ### :underage: NSFW
 - [[__Pornhub__] L'offre Pornhub Premium, qui supprime la pub et comprend plus de vidéos, offerte en mars pour l'Italie (#VPN)](https://twitter.com/Pornhub/status/1238130377727901696)
 - [[__Jacquie et Michel__] J&M a décidé de vous offrir plusieurs films sur ses diverses plateformes (voir calendrier)](https://twitter.com/JacquieMichelX/status/1238491458442874881)
