@@ -7,7 +7,7 @@ NB : Si vous voyez passer un nouveau produit qui ne se trouve pas dans la liste,
 
 ### :school: Éducation
 
-- [[__APP__] Cahier de vacances - Primaire - Nomad Education](https://play.google.com/store/apps/details?id=com.nomadeducation.cahiersdevacances)cc
+- [[__Nomade Education__] :robot: Cahier de vacances - Primaire - Nomad Education](https://play.google.com/store/apps/details?id=com.nomadeducation.cahiersdevacances) - ~~8.99€~~
 - [[__ManuelNumerique.com__] Accès gratuit aux manuels Scolaires Primaire, Collège](https://adistance.manuelnumerique.com/)
 - [[__Lelivrescolaire.fr__] Manuels collaboratifs co-écrits par une communauté de 3000 professeurs](https://www.lelivrescolaire.fr/)
 - [[__Editions-hatier.fr__] Accès gratuit à tous leurs manuels en ligne](https://www.editions-hatier.fr/continuite-pedagogique)
